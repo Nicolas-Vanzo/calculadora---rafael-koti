@@ -89,40 +89,4 @@ while True:
     print('Aguarde...') 
     time.sleep(3)
        
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-        # case '8':
-        #     ang = float(input('Digite o ângulo em graus: '))
-        #     print(f'sen({ang}) = {math.sin(math.radians(ang)):.4f}')
-
-        # case '9':
-        #     ang = float(input('Digite o ângulo em graus: '))
-        #     print(f'cos({ang}) = {math.cos(math.radians(ang)):.4f}')
-
-        # case '10':
-        #     ang = float(input('Digite o ângulo em graus: '))
-        #     print(f'tg({ang}) = {math.tan(math.radians(ang)):.4f}')
-
-        # case '11':
-        #     co = float(input('Digite o valor do cateto oposto: '))
-        #     ca = float(input('Digite o valor do cateto adjacente: '))
-        #     hip = math.hypot(co, ca)
-        #     print('*' * 25)
-        #     print(f'A hipotenusa é: {hip:.2f}')
-
-        # case _:
-        #     print('Opção inválida. Tente novamente.')
+    
