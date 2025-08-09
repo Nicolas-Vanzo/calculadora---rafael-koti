@@ -88,5 +88,6 @@ while True:
        
     print('Aguarde...') 
     time.sleep(3)
+    print('tmj pae')
        
     
